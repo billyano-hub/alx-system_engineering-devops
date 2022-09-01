@@ -1,1 +1,1 @@
-current working bdirectory
+Delete Myfirstdirectory
