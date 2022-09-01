@@ -1,1 +1,1 @@
-move to tmp directory
+Delete Betty
