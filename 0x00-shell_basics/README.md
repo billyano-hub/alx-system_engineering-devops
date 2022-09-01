@@ -1,1 +1,1 @@
-delete myfirstdirectory
+how to change directory
