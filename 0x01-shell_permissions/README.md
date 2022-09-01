@@ -1,1 +1,1 @@
-script that sets mode of the file to another
+script that sets the mode of the file in reverse mode
