@@ -1,1 +1,1 @@
-Create a script that switches the current to another
+script that prints the effective username of the current user
