@@ -1,1 +1,1 @@
-how to change directory
+script that print a file named iamafile
