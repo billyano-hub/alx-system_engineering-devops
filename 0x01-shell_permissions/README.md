@@ -1,1 +1,1 @@
-permission to the file, owner no permission, group no permission and other users;all the permissions
+script that sets mode of the file to another

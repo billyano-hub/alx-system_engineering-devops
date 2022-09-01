@@ -1,1 +1,2 @@
-script that sets mode of the file to the executable pattern
+#!/bin/bash
+chmod 753 hello
