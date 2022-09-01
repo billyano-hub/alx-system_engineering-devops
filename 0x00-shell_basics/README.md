@@ -1,1 +1,1 @@
-create a script that creates a tmp directory
+creates a tmp directory
