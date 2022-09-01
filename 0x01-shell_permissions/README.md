@@ -1,1 +1,1 @@
-permission to the owner, thr group owner and the other users, to the file
+permission to the file, owner no permission, group no permission and other users;all the permissions
