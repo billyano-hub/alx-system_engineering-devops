@@ -1,1 +1,1 @@
-display content numerically
+create a script that creates a tmp directory
