@@ -1,1 +1,1 @@
-Dispay the contents list of your current directory
+script that changes working directory to home directory
