@@ -1,1 +1,2 @@
-creating magic file
+creates a tmp directory
+
