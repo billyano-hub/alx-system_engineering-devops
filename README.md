@@ -1,1 +1,1 @@
-script that prints “Hello, World”, followed by a new line to the standard output
+Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
