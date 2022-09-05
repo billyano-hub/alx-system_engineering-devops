@@ -1,1 +1,1 @@
-Script that displays the third line of the file iacta
+Shell script that creates a file name
