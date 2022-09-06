@@ -1,1 +1,1 @@
-Create a script that lists all local variables and environment variables, and functions.
+Write a script that prints a number with two decimal places, followed by a new line.
